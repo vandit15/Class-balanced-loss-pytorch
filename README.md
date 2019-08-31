@@ -9,6 +9,8 @@ Pytorch implementation of the paper
 - Python (>=3.6)
 - Pytorch (>=1.2.0)
 
+## How it works
+
 It works on the principle of calculating effective number of samples for all classes which is defined as:
 
 ![alt-text](https://github.com/vandit15/Class-balanced-loss-pytorch/blob/master/samples.png)
