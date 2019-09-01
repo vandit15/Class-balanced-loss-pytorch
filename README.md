@@ -23,3 +23,7 @@ Visualisation for effective number of samples
 
 
 ![alt-text](https://github.com/vandit15/Class-balanced-loss-pytorch/blob/master/image.png "Visualisation for effective number of samples")
+
+## References
+
+[official tensorflow implementation](https://github.com/richardaecn/class-balanced-loss)
