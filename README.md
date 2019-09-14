@@ -9,6 +9,11 @@ Pytorch implementation of the paper
 - Python (>=3.6)
 - Pytorch (>=1.2.0)
 
+## Review article of the paper
+[Medium Article](https://medium.com/@vandit_15/handling-class-imbalanced-data-using-a-loss-specifically-made-for-it-6e58fd65ffab?source=friends_link&sk=ac09ea6061990ead2a2f90e3767ae91f)
+
+## How it works
+
 It works on the principle of calculating effective number of samples for all classes which is defined as:
 
 ![alt-text](https://github.com/vandit15/Class-balanced-loss-pytorch/blob/master/samples.png)
@@ -21,3 +26,7 @@ Visualisation for effective number of samples
 
 
 ![alt-text](https://github.com/vandit15/Class-balanced-loss-pytorch/blob/master/image.png "Visualisation for effective number of samples")
+
+## References
+
+[official tensorflow implementation](https://github.com/richardaecn/class-balanced-loss)
